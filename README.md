@@ -1,0 +1,1 @@
+# Cognifyz_Geospatial_Analysis
